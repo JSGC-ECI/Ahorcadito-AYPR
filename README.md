@@ -1,4 +1,4 @@
-# 🪓 Ahorcadito - AYPR
+# 🪓 Ahorcadito
 
 CLAUDIA PATRICIA CASTAÑEDA BERMUDEZ
 - LAURA VALENTINA TORRES CÁRDENAS <laura.torres-c@mail.escuelaing.edu.co>
