@@ -105,11 +105,8 @@ El enfoque de validación es empírico
 ```bash
 📦 Ahorcadito-AYPR
  ┣ 📜 Ahorcadito.py              # Versión principal o de prueba del juego del ahorcado
- ┣ 📜 ahorcados.py               # Versión funcional del juego (probablemente la versión final)
- ┣ 📜 palabras.txt               # Archivo de texto que contiene el listado de palabras secretas
- ┗ 📜 version ahorcados.py       # Otra versión del juego, posiblemente en desarrollo o prueba
-
-```
+ ┗ 📜 palabras.txt               # Archivo de texto que contiene el listado de palabras secretas
+ ```
 
 ---
 
