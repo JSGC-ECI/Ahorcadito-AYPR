@@ -94,13 +94,15 @@ python Ahorcadito.py
 > El juego se puede reiniciar tras finalizar una partida.
 
 > \[!WARNING]
-> Asegúrate de que `palabras.txt` esté en la misma carpeta que el script.
+> Asegúrate de tener un archivo con una palabra por línea, esté en la misma carpeta que el juego o en una ruta accesible.
 
 ---
 
 ## 🧪 Pruebas
 
-El enfoque de validación es empírico
+No se incluyeron pruebas automatizadas en esta versión. Las validaciones fueron realizadas manualmente mediante ejecución directa del juego en consola.
+
+Se puede dar uso de  `palabras.txt` como archivo prueba que contiene una serie deejemplo de palabras 
 
 ---
 
@@ -108,8 +110,8 @@ El enfoque de validación es empírico
 
 ```bash
 📦 Ahorcadito-AYPR
- ┣ 📜 Ahorcadito.py              # Versión principal o de prueba del juego del ahorcado
- ┗ 📜 palabras.txt               # Archivo de texto que contiene el listado de palabras secretas
+ ┣ 📜 Ahorcadito.py    # Código principal del juego
+ ┗ 📜 palabras.txt      # Lista de palabras
  ```
 
 ---
