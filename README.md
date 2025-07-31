@@ -78,7 +78,11 @@ git clone https://github.com/JSGC-ECI/Ahorcadito-AYPR
 
 ## ▶️ Uso
 
-1. Al ejecutar el programa, se selecciona aleatoriamente una palabra secreta.
+```bash
+python Ahorcadito.py
+```
+
+1. Al ejecutar el programa, se selecciona aleatoriamente una palabra secreta a partir de la seleccion del archivo que las contiene.
 2. El jugador debe ingresar letras para intentar adivinar la palabra.
 3. Cada intento incorrecto reduce el número de vidas restantes.
 4. El juego finaliza cuando:
@@ -90,7 +94,7 @@ git clone https://github.com/JSGC-ECI/Ahorcadito-AYPR
 > El juego se puede reiniciar tras finalizar una partida.
 
 > \[!WARNING]
-> El número de intentos es limitado, así que cada letra cuenta.
+> Asegúrate de que `palabras.txt` esté en la misma carpeta que el script.
 
 ---
 
